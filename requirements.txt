@@ -1,0 +1,6 @@
+
+SQLAlchemy
+Faker
+python-dotenv
+PyMySQL
+
